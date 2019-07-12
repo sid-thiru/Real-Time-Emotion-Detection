@@ -12,7 +12,7 @@ from inference import *
 from preprocessor import *
 
 # parameters for loading data and images
-# detection_model_path = '/Users/gowthamkannan/CV_PROJ/Classifier.h5'
+# detection_model_path = 'Classifier.h5'
 detection_model_path = 'haarcascade_frontalface_default.xml'
 emotion_model_path = 'Classifier_10.h5'
 # emotion_model_path = '../trained_models/emotion_models/fer2013_mini_XCEPTION.102-0.66.hdf5'
